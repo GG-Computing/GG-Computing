@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🖥️ About Me:
 im currently working on OG-OS<br>im 16 years old<br>im from Australia<br>im a solo developer<br>
 
 
