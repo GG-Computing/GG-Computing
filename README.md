@@ -9,8 +9,8 @@ im currently working on OG-OS<br>im 16 years old<br>im from Australia<br>im a so
 ![](https://github-readme-streak-stats.herokuapp.com/?user=og-technologies&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=og-technologies&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ The 🐐 Quote
+![] "An idiot admires complexity while a genius admires simplicity."
 
 ---
 [![](https://visitcount.itsvg.in/api?id=og-technologies&icon=9&color=3)](https://visitcount.itsvg.in)
